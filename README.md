@@ -45,3 +45,5 @@ Through the use of [recursive feature elimination with cross-vlaidation (RFECV)]
 
 ## Lessons Learned
 This was one of the most fun projects I've worked on to date, and one that taught me a ton about data and machine learning. When I first attempted it, I had no experience whatsoever with Support Vector Machines, Stochastic Gradient Descent, or Linear Perceptron models. It took a lot of reading and testing to figure out how to properly implement them. Another challenge was understanding how RandomizedSearchCV worked. I spent a long time testing and tweaking the parameters to change when using it. This project helped me realize the importance of **structure** in a project, as it became very clear to me how quickly one can get lost in the code.
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/kaggle-titanic-workflow/blob/main/TitanicWorkflow.ipynb).
